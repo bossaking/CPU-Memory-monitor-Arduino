@@ -1,0 +1,14 @@
+C:\Users\ddgam\source\repos\Sensors_WPF\Sensors_WPF\bin\Debug\Sensors_WPF.exe.config
+C:\Users\ddgam\source\repos\Sensors_WPF\Sensors_WPF\bin\Debug\Sensors_WPF.exe
+C:\Users\ddgam\source\repos\Sensors_WPF\Sensors_WPF\bin\Debug\Sensors_WPF.pdb
+C:\Users\ddgam\source\repos\Sensors_WPF\Sensors_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ddgam\source\repos\Sensors_WPF\Sensors_WPF\obj\Debug\App.g.cs
+C:\Users\ddgam\source\repos\Sensors_WPF\Sensors_WPF\obj\Debug\Sensors_WPF_MarkupCompile.cache
+C:\Users\ddgam\source\repos\Sensors_WPF\Sensors_WPF\obj\Debug\Sensors_WPF_MarkupCompile.lref
+C:\Users\ddgam\source\repos\Sensors_WPF\Sensors_WPF\obj\Debug\MainWindow.baml
+C:\Users\ddgam\source\repos\Sensors_WPF\Sensors_WPF\obj\Debug\Sensors_WPF.g.resources
+C:\Users\ddgam\source\repos\Sensors_WPF\Sensors_WPF\obj\Debug\Sensors_WPF.Properties.Resources.resources
+C:\Users\ddgam\source\repos\Sensors_WPF\Sensors_WPF\obj\Debug\Sensors_WPF.csproj.GenerateResource.cache
+C:\Users\ddgam\source\repos\Sensors_WPF\Sensors_WPF\obj\Debug\Sensors_WPF.exe
+C:\Users\ddgam\source\repos\Sensors_WPF\Sensors_WPF\obj\Debug\Sensors_WPF.pdb
+C:\Users\ddgam\source\repos\Sensors_WPF\Sensors_WPF\obj\Debug\Sensors_WPF.csprojAssemblyReference.cache
